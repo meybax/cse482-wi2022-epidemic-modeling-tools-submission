@@ -1,0 +1,7 @@
+env
+.DS_Store
+__pycache__
+data/county
+data/*.json
+*.pyc
+cache
